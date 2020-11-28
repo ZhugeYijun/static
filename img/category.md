@@ -1,0 +1,32 @@
+##桃花-水
+[
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\1.jpg",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\2.jpg",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\nature\1583473976583.jpg",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\nature\1585625835850.jpg"
+]
+##落叶
+[
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\1.jpg",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\2.jpg"
+]
+##落雪
+[
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\9.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\YiShuiHan\10.jpg",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\nature\1601028970366.jpg"
+]
+##人物
+[
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\steam\18.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\1.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\2.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\3.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\4.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\5.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\6.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\7.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\8.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\9.webp",
+    "https://cdn.jsdelivr.net/gh/ZhugeYijun/static@latest/img\other\10.webp"
+]
